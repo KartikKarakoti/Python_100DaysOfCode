@@ -1,0 +1,11 @@
+# a = "1"
+a = 2
+# b = "3"
+b = 3
+print(a + b)
+
+#Implicit typeCasting
+c = 3.2
+d = 5
+
+print(c + d)
