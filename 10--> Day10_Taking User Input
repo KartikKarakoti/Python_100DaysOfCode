@@ -1,0 +1,27 @@
+#user input
+a = input()
+print("My Name is", a)
+
+
+#string
+a = input("Enter your name: ")
+print("My Name is", a)
+
+x = input("Enter first Number: ")
+y = input("Enter secound Number: ")
+print(x + y)
+print(int(x) + int(y))
+
+
+x = input("Enter first Number: ")
+y = input("Enter secound Number: ")
+print(x + y)
+print(int(x) + int(y))
+
+print(int(x) - int(y))
+
+print(int(x) / int(y))
+
+print(int(x) // int(y))
+
+print(int(x) * int(y))
