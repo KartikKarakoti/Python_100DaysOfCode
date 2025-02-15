@@ -15,7 +15,6 @@ else:
   print("Yay!")
 
 
-
   applePrice = 10
 budget = 200
 if (budget - applePrice > 50):
